@@ -1,3 +1,11 @@
 # Object file
 *.wav
 *.tex
+*.docx
+*.eps
+*.bst
+*.bib
+*.sty
+*.toc
+*.db
+*.cls
