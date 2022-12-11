@@ -1,0 +1,808 @@
+filename,labels
+(02) dont kill the whale-1.txt,['gel']
+(02) dont kill the whale-11.txt,['gel']
+(02) dont kill the whale-12.txt,"['gel', 'voi']"
+(02) dont kill the whale-13.txt,"['gel', 'voi']"
+(02) dont kill the whale-14.txt,"['gel', 'voi']"
+(02) dont kill the whale-15.txt,"['gel', 'pia']"
+(02) dont kill the whale-2.txt,"['gel', 'voi']"
+(02) dont kill the whale-3.txt,"['gel', 'voi']"
+(02) dont kill the whale-4.txt,['gel']
+(02) dont kill the whale-6.txt,"['gel', 'voi']"
+(02) dont kill the whale-8.txt,['gel']
+(02) dont kill the whale-9.txt,"['gel', 'pia']"
+00 - gold fronts-1.txt,['voi']
+00 - gold fronts-10.txt,['gel']
+00 - gold fronts-12.txt,"['pia', 'voi']"
+00 - gold fronts-13.txt,"['gac', 'voi']"
+00 - gold fronts-2.txt,"['gel', 'voi']"
+00 - gold fronts-3.txt,"['gel', 'voi']"
+00 - gold fronts-4.txt,"['gel', 'voi']"
+00 - gold fronts-5.txt,"['gel', 'voi']"
+00 - gold fronts-7.txt,"['gel', 'voi']"
+00 - gold fronts-8.txt,"['gel', 'voi']"
+00 - yazoo - dont go-3.txt,['voi']
+00 - yazoo - dont go-4.txt,['voi']
+00 - yazoo - dont go-5.txt,['voi']
+00 - yazoo - dont go-8.txt,['voi']
+00 - yazoo - dont go-9.txt,['voi']
+01 - 999-1.txt,['gel']
+01 - 999-10.txt,"['gel', 'voi']"
+01 - 999-11.txt,"['gel', 'org', 'voi']"
+01 - 999-12.txt,"['gel', 'voi']"
+01 - 999-13.txt,"['gel', 'voi']"
+01 - 999-15.txt,"['gel', 'org', 'voi']"
+01 - 999-17.txt,"['gel', 'voi']"
+01 - 999-18.txt,"['gel', 'voi']"
+01 - 999-2.txt,"['gel', 'voi']"
+01 - 999-20.txt,"['gel', 'org', 'voi']"
+01 - 999-4.txt,"['gel', 'voi']"
+01 - 999-5.txt,"['gel', 'org', 'voi']"
+01 - 999-6.txt,"['gel', 'voi']"
+01 - 999-8.txt,"['gel', 'org', 'voi']"
+01 - Airdrop-10.txt,['gel']
+01 - Airdrop-2.txt,['gel']
+01 - Airdrop-3.txt,"['gel', 'voi']"
+01 - Airdrop-4.txt,"['cel', 'gel']"
+01 - Airdrop-6.txt,"['gel', 'voi']"
+01 - Airdrop-8.txt,['gel']
+01 - Airdrop-9.txt,['gel']
+01 - Canto das tre╠és rac╠ºas-10.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-11.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-12.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-13.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-14.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-2.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-3.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-4.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-5.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-6.txt,"['gac', 'voi']"
+01 - Canto das tre╠és rac╠ºas-8.txt,['voi']
+01 - Canto das tre╠és rac╠ºas-9.txt,"['gac', 'voi']"
+01 - Chet Baker - Prayer For The Newborn-1.txt,"['sax', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-11.txt,['pia']
+01 - Chet Baker - Prayer For The Newborn-12.txt,['pia']
+01 - Chet Baker - Prayer For The Newborn-14.txt,"['pia', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-15.txt,"['pia', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-17.txt,['pia']
+01 - Chet Baker - Prayer For The Newborn-18.txt,['pia']
+01 - Chet Baker - Prayer For The Newborn-2.txt,"['pia', 'sax', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-20.txt,"['pia', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-21.txt,"['pia', 'sax', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-22.txt,"['pia', 'sax', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-24.txt,"['sax', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-3.txt,"['pia', 'sax', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-5.txt,"['pia', 'sax']"
+01 - Chet Baker - Prayer For The Newborn-6.txt,"['pia', 'sax']"
+01 - Chet Baker - Prayer For The Newborn-8.txt,"['pia', 'tru']"
+01 - Chet Baker - Prayer For The Newborn-9.txt,"['pia', 'tru']"
+01 - Da Duh Dah-1.txt,['pia']
+01 - Da Duh Dah-10.txt,['pia']
+01 - Da Duh Dah-11.txt,['pia']
+01 - Da Duh Dah-13.txt,"['pia', 'sax', 'tru']"
+01 - Da Duh Dah-15.txt,"['sax', 'tru']"
+01 - Da Duh Dah-18.txt,"['pia', 'sax', 'tru']"
+01 - Da Duh Dah-2.txt,"['pia', 'sax', 'tru']"
+01 - Da Duh Dah-4.txt,"['pia', 'tru']"
+01 - Da Duh Dah-5.txt,"['pia', 'tru']"
+01 - Da Duh Dah-7.txt,"['pia', 'sax']"
+01 - Da Duh Dah-8.txt,"['pia', 'sax']"
+01 - Hilary Hahnn_BWV 1042 - I. AllegroA-15.txt,['vio']
+01 - Honky Cat-1.txt,['pia']
+01 - Honky Cat-10.txt,"['pia', 'voi']"
+01 - Honky Cat-11.txt,"['pia', 'voi']"
+01 - Honky Cat-12.txt,['pia']
+01 - Honky Cat-14.txt,"['pia', 'voi']"
+01 - Honky Cat-15.txt,"['pia', 'voi']"
+01 - Honky Cat-16.txt,"['pia', 'voi']"
+01 - Honky Cat-18.txt,"['pia', 'voi']"
+01 - Honky Cat-19.txt,"['pia', 'voi']"
+01 - Honky Cat-2.txt,"['pia', 'voi']"
+01 - Honky Cat-20.txt,"['pia', 'voi']"
+01 - Honky Cat-21.txt,"['pia', 'voi']"
+01 - Honky Cat-22.txt,"['pia', 'voi']"
+01 - Honky Cat-23.txt,"['pia', 'voi']"
+01 - Honky Cat-24.txt,['pia']
+01 - Honky Cat-25.txt,['pia']
+01 - Honky Cat-26.txt,['pia']
+01 - Honky Cat-27.txt,['pia']
+01 - Honky Cat-28.txt,['pia']
+01 - Honky Cat-29.txt,['pia']
+01 - Honky Cat-30.txt,"['pia', 'voi']"
+01 - Honky Cat-31.txt,"['pia', 'voi']"
+01 - Honky Cat-32.txt,['pia']
+01 - Honky Cat-4.txt,"['pia', 'voi']"
+01 - Honky Cat-5.txt,"['pia', 'voi']"
+01 - Honky Cat-6.txt,"['pia', 'voi']"
+01 - Honky Cat-7.txt,"['pia', 'voi']"
+01 - Honky Cat-8.txt,"['pia', 'voi']"
+01 - Inolvidable-1.txt,['pia']
+01 - Inolvidable-10.txt,"['pia', 'voi']"
+01 - Inolvidable-11.txt,"['pia', 'voi']"
+01 - Inolvidable-12.txt,['voi']
+01 - Inolvidable-13.txt,"['pia', 'voi']"
+01 - Inolvidable-2.txt,"['pia', 'voi']"
+01 - Inolvidable-3.txt,"['pia', 'voi']"
+01 - Inolvidable-4.txt,"['pia', 'voi']"
+01 - Inolvidable-5.txt,['pia']
+01 - Inolvidable-6.txt,['pia']
+01 - Inolvidable-7.txt,['pia']
+01 - Inolvidable-9.txt,"['pia', 'voi']"
+01 - La leyenda del tiempo-11.txt,"['gac', 'org']"
+01 - La leyenda del tiempo-13.txt,"['gac', 'voi']"
+01 - La leyenda del tiempo-15.txt,['gac']
+01 - La leyenda del tiempo-2.txt,['gac']
+01 - La leyenda del tiempo-3.txt,"['gac', 'org']"
+01 - La leyenda del tiempo-4.txt,"['gac', 'voi']"
+01 - La leyenda del tiempo-5.txt,"['gac', 'voi']"
+01 - La leyenda del tiempo-6.txt,"['gac', 'voi']"
+01 - La leyenda del tiempo-7.txt,['gac']
+01 - La leyenda del tiempo-9.txt,"['gac', 'voi']"
+01 - Led Zeppelin - Custard Pie-1.txt,['gel']
+01 - Led Zeppelin - Custard Pie-10.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-12.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-13.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-14.txt,['gel']
+01 - Led Zeppelin - Custard Pie-15.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-16.txt,['gel']
+01 - Led Zeppelin - Custard Pie-2.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-3.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-4.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-5.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-7.txt,"['gel', 'voi']"
+01 - Led Zeppelin - Custard Pie-8.txt,['gel']
+01 - Orchids in the Moonlight-1.txt,['gac']
+01 - Orchids in the Moonlight-10.txt,['gac']
+01 - Orchids in the Moonlight-11.txt,['gac']
+01 - Orchids in the Moonlight-2.txt,['gac']
+01 - Orchids in the Moonlight-3.txt,['gac']
+01 - Orchids in the Moonlight-5.txt,['gac']
+01 - Orchids in the Moonlight-6.txt,['gac']
+01 - Orchids in the Moonlight-7.txt,['gac']
+01 - Orchids in the Moonlight-8.txt,['gac']
+01 - Orchids in the Moonlight-9.txt,['gac']
+"01 - Paganini - Eliot Fisk, Guitar - No. 1 in E-major-1.txt",['gac']
+"01 - Paganini - Eliot Fisk, Guitar - No. 1 in E-major-2.txt",['gac']
+"01 - Paganini - Eliot Fisk, Guitar - No. 1 in E-major-3.txt",['gac']
+"01 - Paganini - Eliot Fisk, Guitar - No. 1 in E-major-4.txt",['gac']
+"01 - Paganini - Eliot Fisk, Guitar - No. 1 in E-major-5.txt",['gac']
+"01 - Paganini - Eliot Fisk, Guitar - No. 1 in E-major-6.txt",['gac']
+01 - Roadgame-1.txt,['voi']
+01 - Roadgame-10.txt,['pia']
+01 - Roadgame-12.txt,"['pia', 'sax']"
+01 - Roadgame-13.txt,"['pia', 'sax']"
+01 - Roadgame-14.txt,"['pia', 'sax']"
+01 - Roadgame-15.txt,"['pia', 'sax']"
+01 - Roadgame-16.txt,"['pia', 'sax']"
+01 - Roadgame-17.txt,"['pia', 'sax']"
+01 - Roadgame-18.txt,"['pia', 'sax']"
+01 - Roadgame-19.txt,"['pia', 'sax']"
+01 - Roadgame-21.txt,['pia']
+01 - Roadgame-22.txt,['pia']
+01 - Roadgame-23.txt,['pia']
+01 - Roadgame-24.txt,['pia']
+01 - Roadgame-26.txt,"['pia', 'sax']"
+01 - Roadgame-27.txt,"['pia', 'sax']"
+01 - Roadgame-28.txt,"['pia', 'sax']"
+01 - Roadgame-3.txt,['pia']
+01 - Roadgame-30.txt,['pia']
+01 - Roadgame-32.txt,"['pia', 'sax']"
+01 - Roadgame-33.txt,"['pia', 'sax']"
+01 - Roadgame-4.txt,"['pia', 'sax']"
+01 - Roadgame-6.txt,['pia']
+01 - Roadgame-7.txt,['pia']
+01 - Roadgame-8.txt,['pia']
+01 - Roadgame-9.txt,['pia']
+01 - roads-12.txt,['voi']
+01 - roads-13.txt,['voi']
+01 - roads-15.txt,['voi']
+01 - roads-18.txt,['voi']
+01 - roads-19.txt,['voi']
+01 - roads-20.txt,['voi']
+01 - roads-21.txt,['voi']
+01 - roads-22.txt,['voi']
+01 - roads-23.txt,['voi']
+01 - roads-4.txt,['voi']
+01 - roads-5.txt,['voi']
+01 - roads-7.txt,['voi']
+01 - roads-8.txt,['voi']
+01 - So What-1.txt,['pia']
+01 - So What-10.txt,"['pia', 'tru']"
+01 - So What-11.txt,"['pia', 'tru']"
+01 - So What-13.txt,"['pia', 'sax']"
+01 - So What-14.txt,"['pia', 'sax']"
+01 - So What-15.txt,"['pia', 'sax']"
+01 - So What-16.txt,"['pia', 'sax']"
+01 - So What-17.txt,"['pia', 'sax']"
+01 - So What-18.txt,"['pia', 'sax']"
+01 - So What-19.txt,"['pia', 'sax']"
+01 - So What-20.txt,"['pia', 'sax']"
+01 - So What-21.txt,"['pia', 'sax']"
+01 - So What-22.txt,"['pia', 'sax']"
+01 - So What-24.txt,['pia']
+01 - So What-25.txt,['pia']
+01 - So What-27.txt,['pia']
+01 - So What-29.txt,['pia']
+01 - So What-31.txt,['pia']
+01 - So What-4.txt,['pia']
+01 - So What-5.txt,['pia']
+01 - So What-7.txt,"['pia', 'tru']"
+01 - So What-8.txt,"['pia', 'tru']"
+01 - So What-9.txt,"['pia', 'tru']"
+01 - Wee Baby Blues-1.txt,"['pia', 'sax']"
+01 - Wee Baby Blues-11.txt,"['gel', 'pia', 'voi']"
+01 - Wee Baby Blues-2.txt,"['gel', 'pia', 'voi']"
+01 - Wee Baby Blues-3.txt,"['gel', 'pia', 'voi']"
+01 - Wee Baby Blues-4.txt,"['gel', 'pia', 'voi']"
+01 - Wee Baby Blues-6.txt,"['gel', 'pia']"
+01 - Wee Baby Blues-7.txt,"['gel', 'pia']"
+01 - Wee Baby Blues-9.txt,"['gel', 'pia', 'sax']"
+01 Blue Train-1.txt,['pia']
+01 Blue Train-10.txt,"['pia', 'sax']"
+01 Blue Train-12.txt,"['pia', 'sax']"
+01 Blue Train-14.txt,"['pia', 'tru']"
+01 Blue Train-15.txt,"['pia', 'tru']"
+01 Blue Train-16.txt,"['pia', 'tru']"
+01 Blue Train-17.txt,"['pia', 'tru']"
+01 Blue Train-18.txt,"['pia', 'tru']"
+01 Blue Train-20.txt,['pia']
+01 Blue Train-21.txt,['pia']
+01 Blue Train-22.txt,['pia']
+01 Blue Train-23.txt,['pia']
+01 Blue Train-25.txt,['pia']
+01 Blue Train-26.txt,['pia']
+01 Blue Train-27.txt,['pia']
+01 Blue Train-28.txt,['pia']
+01 Blue Train-29.txt,['pia']
+01 Blue Train-3.txt,"['pia', 'sax']"
+01 Blue Train-30.txt,['pia']
+01 Blue Train-31.txt,['pia']
+01 Blue Train-36.txt,['pia']
+01 Blue Train-37.txt,['pia']
+01 Blue Train-4.txt,"['pia', 'sax']"
+01 Blue Train-5.txt,"['pia', 'sax']"
+01 Blue Train-6.txt,"['pia', 'sax']"
+01 Blue Train-7.txt,"['pia', 'sax']"
+01 Blue Train-9.txt,"['pia', 'sax']"
+01 Booker T. Jones - Pound It Out-1.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-10.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-11.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-12.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-13.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-3.txt,['gel']
+01 Booker T. Jones - Pound It Out-4.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-6.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-8.txt,"['gel', 'org']"
+01 Booker T. Jones - Pound It Out-9.txt,"['gel', 'org']"
+01 Chuck Mangione_Feels So Good_Feels So Good-1.txt,"['gac', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-10.txt,"['gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-12.txt,"['gac', 'gel']"
+01 Chuck Mangione_Feels So Good_Feels So Good-13.txt,"['gac', 'gel', 'sax']"
+01 Chuck Mangione_Feels So Good_Feels So Good-14.txt,"['gac', 'gel']"
+01 Chuck Mangione_Feels So Good_Feels So Good-16.txt,"['gel', 'sax']"
+01 Chuck Mangione_Feels So Good_Feels So Good-17.txt,"['gel', 'sax']"
+01 Chuck Mangione_Feels So Good_Feels So Good-18.txt,"['gel', 'sax']"
+01 Chuck Mangione_Feels So Good_Feels So Good-2.txt,"['gac', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-20.txt,"['gac', 'gel']"
+01 Chuck Mangione_Feels So Good_Feels So Good-21.txt,"['gac', 'gel']"
+01 Chuck Mangione_Feels So Good_Feels So Good-22.txt,"['gac', 'gel']"
+01 Chuck Mangione_Feels So Good_Feels So Good-24.txt,"['gac', 'gel', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-26.txt,"['gac', 'gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-27.txt,"['gac', 'gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-29.txt,"['gac', 'gel', 'sax']"
+01 Chuck Mangione_Feels So Good_Feels So Good-3.txt,"['gac', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-30.txt,"['gac', 'gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-31.txt,"['gac', 'gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-32.txt,"['gac', 'gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-33.txt,"['gac', 'gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-34.txt,"['gac', 'gel', 'sax', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-4.txt,"['gac', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-6.txt,['gac']
+01 Chuck Mangione_Feels So Good_Feels So Good-8.txt,"['gel', 'tru']"
+01 Chuck Mangione_Feels So Good_Feels So Good-9.txt,"['gel', 'sax', 'tru']"
+01 Don't Get Around Much Anymore-1.txt,['pia']
+01 Don't Get Around Much Anymore-10.txt,['pia']
+01 Don't Get Around Much Anymore-12.txt,['pia']
+01 Don't Get Around Much Anymore-13.txt,['pia']
+01 Don't Get Around Much Anymore-14.txt,['pia']
+01 Don't Get Around Much Anymore-16.txt,"['pia', 'sax', 'tru']"
+01 Don't Get Around Much Anymore-18.txt,"['pia', 'sax']"
+01 Don't Get Around Much Anymore-2.txt,"['pia', 'sax']"
+01 Don't Get Around Much Anymore-3.txt,"['pia', 'sax', 'tru']"
+01 Don't Get Around Much Anymore-4.txt,['pia']
+01 Don't Get Around Much Anymore-5.txt,['pia']
+01 Don't Get Around Much Anymore-6.txt,['pia']
+01 Don't Get Around Much Anymore-7.txt,"['pia', 'tru']"
+01 Don't Get Around Much Anymore-8.txt,"['pia', 'tru']"
+01 Don't Get Around Much Anymore-9.txt,['pia']
+01 El Patufet-1.txt,['voi']
+01 El Patufet-3.txt,['flu']
+01 El Patufet-5.txt,['voi']
+01 El Patufet-6.txt,['voi']
+01 El Patufet-7.txt,['voi']
+01 Emily-1.txt,['voi']
+01 Emily-10.txt,"['cel', 'vio', 'voi']"
+01 Emily-11.txt,"['cel', 'vio', 'voi']"
+01 Emily-13.txt,"['cel', 'voi']"
+01 Emily-15.txt,"['cel', 'vio', 'voi']"
+01 Emily-16.txt,"['cel', 'voi']"
+01 Emily-18.txt,"['cel', 'vio', 'voi']"
+01 Emily-19.txt,"['cel', 'vio', 'voi']"
+01 Emily-2.txt,"['vio', 'voi']"
+01 Emily-20.txt,"['cel', 'vio', 'voi']"
+01 Emily-21.txt,"['cel', 'vio', 'voi']"
+01 Emily-22.txt,"['cel', 'vio', 'voi']"
+01 Emily-23.txt,"['cel', 'vio', 'voi']"
+01 Emily-24.txt,"['cel', 'vio', 'voi']"
+01 Emily-26.txt,['voi']
+01 Emily-28.txt,"['cel', 'vio', 'voi']"
+01 Emily-29.txt,['voi']
+01 Emily-30.txt,['voi']
+01 Emily-32.txt,"['cel', 'vio', 'voi']"
+01 Emily-34.txt,['voi']
+01 Emily-35.txt,"['cel', 'vio', 'voi']"
+01 Emily-36.txt,"['cel', 'vio', 'voi']"
+01 Emily-37.txt,"['cel', 'vio', 'voi']"
+01 Emily-38.txt,"['cel', 'vio', 'voi']"
+01 Emily-40.txt,"['cel', 'vio']"
+01 Emily-5.txt,"['cel', 'vio', 'voi']"
+01 Emily-6.txt,"['cel', 'vio', 'voi']"
+01 Emily-7.txt,"['cel', 'vio', 'voi']"
+01 Emily-8.txt,"['cel', 'vio', 'voi']"
+01 Emily-9.txt,"['cel', 'vio', 'voi']"
+01 Good Vibrations-1.txt,"['gel', 'sax']"
+01 Good Vibrations-10.txt,"['gel', 'sax']"
+01 Good Vibrations-12.txt,"['org', 'sax']"
+01 Good Vibrations-13.txt,"['org', 'sax']"
+01 Good Vibrations-14.txt,"['org', 'sax']"
+01 Good Vibrations-15.txt,"['org', 'sax']"
+01 Good Vibrations-17.txt,"['gel', 'org']"
+01 Good Vibrations-18.txt,"['gel', 'org']"
+01 Good Vibrations-20.txt,"['gel', 'org', 'sax']"
+01 Good Vibrations-21.txt,"['gel', 'org']"
+01 Good Vibrations-22.txt,"['gel', 'org']"
+01 Good Vibrations-24.txt,"['gel', 'org', 'sax']"
+01 Good Vibrations-25.txt,"['gel', 'org', 'sax']"
+01 Good Vibrations-26.txt,"['gel', 'org', 'sax']"
+01 Good Vibrations-27.txt,"['gel', 'org', 'sax']"
+01 Good Vibrations-28.txt,"['gel', 'org', 'sax']"
+01 Good Vibrations-29.txt,"['gel', 'org', 'sax']"
+01 Good Vibrations-3.txt,"['gel', 'org']"
+01 Good Vibrations-4.txt,"['gel', 'org']"
+01 Good Vibrations-5.txt,"['gel', 'org']"
+01 Good Vibrations-6.txt,"['gel', 'org']"
+01 Good Vibrations-7.txt,"['gel', 'org']"
+01 Good Vibrations-9.txt,"['gel', 'sax']"
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-1.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-10.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-11.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-12.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-13.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-14.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-15.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-16.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-17.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-18.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-19.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-2.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-20.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-21.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-3.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-4.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-5.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-6.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-7.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-8.txt",['gac']
+"01 Julian Bream - Albeniz- Mallorca, Opus 202-9.txt",['gac']
+01 Just One Of Those Things-1.txt,"['pia', 'sax']"
+01 Just One Of Those Things-10.txt,"['pia', 'sax']"
+01 Just One Of Those Things-11.txt,"['pia', 'sax']"
+01 Just One Of Those Things-12.txt,"['pia', 'sax']"
+01 Just One Of Those Things-14.txt,['pia']
+01 Just One Of Those Things-15.txt,['pia']
+01 Just One Of Those Things-16.txt,['pia']
+01 Just One Of Those Things-17.txt,['pia']
+01 Just One Of Those Things-18.txt,['pia']
+01 Just One Of Those Things-19.txt,['pia']
+01 Just One Of Those Things-2.txt,"['pia', 'sax']"
+01 Just One Of Those Things-21.txt,"['pia', 'sax']"
+01 Just One Of Those Things-22.txt,"['pia', 'sax']"
+01 Just One Of Those Things-23.txt,"['pia', 'sax']"
+01 Just One Of Those Things-4.txt,"['pia', 'sax']"
+01 Just One Of Those Things-5.txt,"['pia', 'sax']"
+01 Just One Of Those Things-6.txt,"['pia', 'sax']"
+01 Just One Of Those Things-7.txt,"['pia', 'sax']"
+01 Just One Of Those Things-8.txt,"['pia', 'sax']"
+01 Just One Of Those Things-9.txt,"['pia', 'sax']"
+01 Organ Grinder's Swing-1.txt,"['gel', 'org']"
+01 Organ Grinder's Swing-2.txt,"['gel', 'org']"
+01 Organ Grinder's Swing-3.txt,"['gel', 'org']"
+01 Organ Grinder's Swing-4.txt,"['gel', 'org']"
+01 Organ Grinder's Swing-5.txt,"['gel', 'org']"
+01 Organ Grinder's Swing-7.txt,['voi']
+01 Organ Grinder's Swing-8.txt,"['gel', 'org']"
+01 Start Making Noise-1.txt,['gac']
+01 Start Making Noise-10.txt,"['gac', 'voi']"
+01 Start Making Noise-11.txt,"['gac', 'voi']"
+01 Start Making Noise-13.txt,"['gac', 'voi']"
+01 Start Making Noise-15.txt,"['gac', 'voi']"
+01 Start Making Noise-16.txt,"['gac', 'voi']"
+01 Start Making Noise-2.txt,"['gac', 'voi']"
+01 Start Making Noise-4.txt,"['gac', 'voi']"
+01 Start Making Noise-6.txt,"['gac', 'voi']"
+01 Start Making Noise-7.txt,"['gac', 'voi']"
+01 Start Making Noise-9.txt,"['gac', 'voi']"
+01 the other side of the crash_over-10.txt,"['gel', 'voi']"
+01 the other side of the crash_over-11.txt,"['gel', 'voi']"
+01 the other side of the crash_over-12.txt,"['gel', 'voi']"
+01 the other side of the crash_over-13.txt,"['gel', 'voi']"
+01 the other side of the crash_over-15.txt,['gel']
+01 the other side of the crash_over-17.txt,"['gel', 'pia']"
+01 the other side of the crash_over-18.txt,"['gel', 'voi']"
+01 the other side of the crash_over-19.txt,"['gel', 'voi']"
+01 the other side of the crash_over-2.txt,['gel']
+01 the other side of the crash_over-20.txt,"['gel', 'voi']"
+01 the other side of the crash_over-22.txt,['gel']
+01 the other side of the crash_over-3.txt,"['gel', 'voi']"
+01 the other side of the crash_over-4.txt,"['gel', 'voi']"
+01 the other side of the crash_over-5.txt,"['gel', 'voi']"
+01 the other side of the crash_over-6.txt,['gel']
+01 the other side of the crash_over-7.txt,"['gel', 'voi']"
+01 the other side of the crash_over-8.txt,"['gel', 'voi']"
+01 the other side of the crash_over-9.txt,"['gel', 'voi']"
+01 Volunteered Slavery-1.txt,['sax']
+01 Volunteered Slavery-10.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-11.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-12.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-13.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-14.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-15.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-16.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-17.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-19.txt,"['pia', 'voi']"
+01 Volunteered Slavery-2.txt,['sax']
+01 Volunteered Slavery-20.txt,"['pia', 'voi']"
+01 Volunteered Slavery-4.txt,['voi']
+01 Volunteered Slavery-5.txt,['voi']
+01 Volunteered Slavery-7.txt,"['sax', 'voi']"
+01 Volunteered Slavery-8.txt,"['pia', 'sax', 'tru']"
+01 Volunteered Slavery-9.txt,"['pia', 'sax', 'tru']"
+01) Bert Jansch - Avocet-1.txt,['gac']
+01) Bert Jansch - Avocet-11.txt,['gac']
+01) Bert Jansch - Avocet-12.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-13.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-14.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-15.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-16.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-17.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-19.txt,['gac']
+01) Bert Jansch - Avocet-20.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-21.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-22.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-23.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-24.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-26.txt,['gac']
+01) Bert Jansch - Avocet-29.txt,['gac']
+01) Bert Jansch - Avocet-3.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-30.txt,"['cel', 'gac']"
+01) Bert Jansch - Avocet-32.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-33.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-35.txt,['gac']
+01) Bert Jansch - Avocet-36.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-37.txt,['gac']
+01) Bert Jansch - Avocet-38.txt,['gac']
+01) Bert Jansch - Avocet-4.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-40.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-41.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-42.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-43.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-45.txt,['gac']
+01) Bert Jansch - Avocet-46.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-48.txt,['gac']
+01) Bert Jansch - Avocet-49.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-5.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-50.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-51.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-52.txt,"['flu', 'gac']"
+01) Bert Jansch - Avocet-54.txt,"['gac', 'gel']"
+01) Bert Jansch - Avocet-56.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-57.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-59.txt,['gac']
+01) Bert Jansch - Avocet-6.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-60.txt,['gac']
+01) Bert Jansch - Avocet-61.txt,['gac']
+01) Bert Jansch - Avocet-7.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-8.txt,"['gac', 'vio']"
+01) Bert Jansch - Avocet-9.txt,"['gac', 'vio']"
+01) Jeff Beck - Hi-Ho Silver Lining-1.txt,"['gel', 'voi']"
+01) Jeff Beck - Hi-Ho Silver Lining-2.txt,"['gel', 'vio', 'voi']"
+01) Jeff Beck - Hi-Ho Silver Lining-3.txt,"['gel', 'vio', 'voi']"
+01) Jeff Beck - Hi-Ho Silver Lining-4.txt,"['gel', 'vio', 'voi']"
+01) Jeff Beck - Hi-Ho Silver Lining-6.txt,['gel']
+01) Jeff Beck - Hi-Ho Silver Lining-8.txt,"['gel', 'vio', 'voi']"
+01- tangerine dream - kiew mission-10.txt,['voi']
+01- tangerine dream - kiew mission-12.txt,['voi']
+01- tangerine dream - kiew mission-8.txt,['voi']
+01- tangerine dream - kiew mission-9.txt,['voi']
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-1.txt,['pia']
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-10.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-11.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-12.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-13.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-14.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-15.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-16.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-17.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-18.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-19.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-2.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-20.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-22.txt,['gel']
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-23.txt,['gel']
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-4.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-6.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-8.txt,"['gel', 'pia']"
+01-mogwai-i_m_jim_morrison_i_m_dead-cocmp3-9.txt,"['gel', 'pia']"
+01-ode_to_the_sun-ar-1.txt,['voi']
+01-ode_to_the_sun-ar-11.txt,"['gel', 'voi']"
+01-ode_to_the_sun-ar-12.txt,"['gel', 'voi']"
+01-ode_to_the_sun-ar-14.txt,['voi']
+01-ode_to_the_sun-ar-2.txt,['gel']
+01-ode_to_the_sun-ar-4.txt,['voi']
+01-ode_to_the_sun-ar-5.txt,['voi']
+01-ode_to_the_sun-ar-6.txt,['voi']
+01-ode_to_the_sun-ar-7.txt,['voi']
+01-ode_to_the_sun-ar-8.txt,['voi']
+01-pet_shop_boys-minimal_(radio_edit)-gti-11.txt,['voi']
+01-pet_shop_boys-minimal_(radio_edit)-gti-12.txt,['gel']
+01-pet_shop_boys-minimal_(radio_edit)-gti-13.txt,['gel']
+01-pet_shop_boys-minimal_(radio_edit)-gti-2.txt,['voi']
+01-pet_shop_boys-minimal_(radio_edit)-gti-5.txt,['voi']
+01-pet_shop_boys-minimal_(radio_edit)-gti-8.txt,['voi']
+01. Another World-10.txt,"['org', 'pia']"
+01. Another World-11.txt,"['org', 'pia', 'voi']"
+01. Another World-13.txt,"['org', 'pia', 'voi']"
+01. Another World-14.txt,"['org', 'pia']"
+01. Another World-15.txt,"['gel', 'org', 'pia']"
+01. Another World-16.txt,"['pia', 'voi']"
+01. Another World-17.txt,"['org', 'pia', 'voi']"
+01. Another World-18.txt,"['org', 'pia', 'voi']"
+01. Another World-19.txt,"['org', 'pia']"
+01. Another World-3.txt,"['gel', 'pia']"
+01. Another World-4.txt,"['org', 'pia']"
+01. Another World-5.txt,"['org', 'pia', 'voi']"
+01. Another World-7.txt,"['org', 'pia', 'voi']"
+01. Another World-8.txt,"['org', 'pia']"
+01. Another World-9.txt,"['gel', 'org', 'pia']"
+01. Caravan-10.txt,['gel']
+01. Caravan-11.txt,['gel']
+01. Caravan-2.txt,['gel']
+01. Caravan-3.txt,['gel']
+01. Caravan-5.txt,['gel']
+01. Caravan-6.txt,['gel']
+01. Caravan-8.txt,['gel']
+01. destroy everything you touch (single mix)-10.txt,['voi']
+01. destroy everything you touch (single mix)-13.txt,['voi']
+01. destroy everything you touch (single mix)-3.txt,['voi']
+01. destroy everything you touch (single mix)-5.txt,['voi']
+01. destroy everything you touch (single mix)-8.txt,['voi']
+01. Flight Time-11.txt,"['pia', 'tru']"
+01. Flight Time-13.txt,"['flu', 'gel', 'pia']"
+01. Flight Time-14.txt,"['gel', 'pia', 'tru']"
+01. Flight Time-15.txt,"['gel', 'pia']"
+01. Flight Time-16.txt,"['gel', 'pia']"
+01. Flight Time-18.txt,"['flu', 'gel', 'pia']"
+01. Flight Time-19.txt,"['flu', 'gel', 'pia']"
+01. Flight Time-21.txt,"['pia', 'tru']"
+01. Flight Time-23.txt,"['flu', 'pia']"
+01. Flight Time-25.txt,"['pia', 'tru']"
+01. Flight Time-26.txt,"['flu', 'gel', 'pia', 'tru']"
+01. Flight Time-27.txt,"['flu', 'gel', 'pia', 'tru']"
+01. Flight Time-28.txt,"['flu', 'gel', 'pia', 'tru']"
+01. Flight Time-29.txt,"['flu', 'gel', 'pia', 'tru']"
+01. Flight Time-3.txt,['pia']
+01. Flight Time-4.txt,['pia']
+01. Flight Time-6.txt,['pia']
+01. Flight Time-7.txt,['pia']
+01. Flight Time-9.txt,"['flu', 'pia']"
+01. Helmet - Pure-10.txt,['gel']
+01. Helmet - Pure-12.txt,['gel']
+01. Helmet - Pure-13.txt,['gel']
+01. Helmet - Pure-14.txt,"['gel', 'voi']"
+01. Helmet - Pure-15.txt,['gel']
+01. Helmet - Pure-3.txt,['gel']
+01. Helmet - Pure-4.txt,"['gel', 'voi']"
+01. Helmet - Pure-6.txt,['gel']
+01. Helmet - Pure-7.txt,"['gel', 'voi']"
+01. Helmet - Pure-9.txt,"['gel', 'voi']"
+01. I Don't Worry About a Thing-1.txt,"['pia', 'voi']"
+01. I Don't Worry About a Thing-2.txt,"['pia', 'voi']"
+01. I Don't Worry About a Thing-4.txt,['pia']
+01. I Don't Worry About a Thing-5.txt,['pia']
+01. I Don't Worry About a Thing-7.txt,"['pia', 'voi']"
+01. In The Crease-1.txt,"['pia', 'sax']"
+01. In The Crease-11.txt,['pia']
+01. In The Crease-12.txt,['pia']
+01. In The Crease-13.txt,['pia']
+01. In The Crease-14.txt,['pia']
+01. In The Crease-15.txt,['pia']
+01. In The Crease-17.txt,"['pia', 'sax']"
+01. In The Crease-18.txt,"['pia', 'sax']"
+01. In The Crease-19.txt,"['pia', 'sax']"
+01. In The Crease-20.txt,"['pia', 'sax']"
+01. In The Crease-21.txt,"['pia', 'sax']"
+01. In The Crease-23.txt,"['pia', 'sax']"
+01. In The Crease-3.txt,['pia']
+01. In The Crease-4.txt,"['pia', 'sax']"
+01. In The Crease-5.txt,"['pia', 'sax']"
+01. In The Crease-6.txt,"['pia', 'sax']"
+01. In The Crease-7.txt,"['pia', 'sax']"
+01. In The Crease-8.txt,"['pia', 'sax']"
+01. In The Crease-9.txt,"['pia', 'sax']"
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-1.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-10.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-11.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-12.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-13.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-2.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-3.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-4.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-5.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-6.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-7.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-8.txt,['pia']
+01. It Don't Mean a Thing (If It Ain't Got That Swing)-9.txt,['pia']
+01. Offering-1.txt,['org']
+01. Offering-10.txt,['org']
+01. Offering-11.txt,['org']
+01. Offering-12.txt,"['org', 'voi']"
+01. Offering-13.txt,['org']
+01. Offering-15.txt,"['org', 'voi']"
+01. Offering-16.txt,['org']
+01. Offering-2.txt,"['org', 'voi']"
+01. Offering-3.txt,"['org', 'voi']"
+01. Offering-4.txt,"['org', 'voi']"
+01. Offering-5.txt,"['org', 'voi']"
+01. Offering-7.txt,['org']
+01. Offering-8.txt,"['org', 'voi']"
+01. Offering-9.txt,['org']
+01. sensing-1.txt,"['pia', 'sax']"
+01. sensing-10.txt,"['pia', 'sax']"
+01. sensing-12.txt,['pia']
+01. sensing-13.txt,"['pia', 'sax']"
+01. sensing-14.txt,"['pia', 'sax']"
+01. sensing-15.txt,"['pia', 'sax']"
+01. sensing-2.txt,['pia']
+01. sensing-3.txt,"['pia', 'sax']"
+01. sensing-5.txt,['pia']
+01. sensing-6.txt,"['pia', 'sax']"
+01. sensing-8.txt,['pia']
+01. sensing-9.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-1.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-10.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-11.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-12.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-13.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-15.txt,"['pia', 'tru']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-16.txt,"['pia', 'tru']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-17.txt,"['pia', 'tru']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-18.txt,"['pia', 'tru']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-2.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-20.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-21.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-22.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-23.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-24.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-25.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-26.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-27.txt,['pia']
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-3.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-4.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-6.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-7.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-8.txt,"['pia', 'sax']"
+01. The Best Of Wayne Shorter - The Blue Note Years - [Speak No Evil]-9.txt,"['pia', 'sax']"
+01. The Chosen Hour-2.txt,['voi']
+01. Trouble (No. 2)-1.txt,"['gel', 'org']"
+01. Trouble (No. 2)-10.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-12.txt,"['gel', 'org']"
+01. Trouble (No. 2)-13.txt,"['gel', 'org']"
+01. Trouble (No. 2)-14.txt,"['gel', 'org']"
+01. Trouble (No. 2)-15.txt,"['gel', 'org']"
+01. Trouble (No. 2)-16.txt,"['gel', 'org']"
+01. Trouble (No. 2)-17.txt,"['gel', 'org']"
+01. Trouble (No. 2)-18.txt,"['gel', 'org']"
+01. Trouble (No. 2)-2.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-20.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-21.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-22.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-23.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-24.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-3.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-4.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-5.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-6.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-7.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-8.txt,"['gel', 'org', 'sax']"
+01. Trouble (No. 2)-9.txt,"['gel', 'org', 'sax']"
+02 - And The Body Will Die-1.txt,['gel']
+02 - And The Body Will Die-10.txt,['gel']
+02 - And The Body Will Die-12.txt,"['gel', 'voi']"
+02 - And The Body Will Die-13.txt,['gel']
+02 - And The Body Will Die-14.txt,"['gel', 'voi']"
+02 - And The Body Will Die-15.txt,"['gel', 'voi']"
+02 - And The Body Will Die-16.txt,"['gel', 'voi']"
+02 - And The Body Will Die-17.txt,"['gel', 'voi']"
+02 - And The Body Will Die-2.txt,['gel']
+02 - And The Body Will Die-4.txt,"['gel', 'voi']"
+02 - And The Body Will Die-6.txt,['gel']
+02 - And The Body Will Die-8.txt,"['gel', 'voi']"
+02 - Bo-Do-1.txt,['pia']
+02 - Bo-Do-10.txt,"['flu', 'pia']"
+02 - Bo-Do-12.txt,['pia']
+02 - Bo-Do-13.txt,['pia']
+02 - Bo-Do-14.txt,['pia']
+02 - Bo-Do-16.txt,"['flu', 'pia']"
+02 - Bo-Do-17.txt,"['flu', 'pia']"
+02 - Bo-Do-18.txt,"['flu', 'pia']"
+02 - Bo-Do-19.txt,"['flu', 'pia']"
+02 - Bo-Do-2.txt,['flu']
+02 - Bo-Do-20.txt,"['flu', 'pia']"
+02 - Bo-Do-4.txt,"['gel', 'pia']"
+02 - Bo-Do-5.txt,"['gel', 'pia']"
+02 - Bo-Do-6.txt,"['gel', 'pia']"
+02 - Bo-Do-8.txt,"['flu', 'pia']"
+02 - Bo-Do-9.txt,"['flu', 'pia']"
+02 - synergistic perceptions-10.txt,['voi']
+02 - synergistic perceptions-11.txt,['voi']
+02 - synergistic perceptions-13.txt,['voi']
+02 - synergistic perceptions-14.txt,['voi']
+02 - synergistic perceptions-16.txt,['voi']
+02 - Time Remembered-1.txt,['gel']
+02 - Time Remembered-10.txt,"['gel', 'pia']"
+02 - Time Remembered-12.txt,"['gel', 'pia']"
+02 - Time Remembered-14.txt,"['gel', 'pia']"
+02 - Time Remembered-2.txt,"['gel', 'pia']"
+02 - Time Remembered-3.txt,"['gel', 'pia']"
+02 - Time Remembered-4.txt,"['gel', 'pia']"
+02 - Time Remembered-5.txt,"['gel', 'pia']"
+02 - Time Remembered-6.txt,"['gel', 'pia']"
+02 - Time Remembered-8.txt,"['gel', 'pia']"
+1 - Hank's Other Bag-1.txt,"['sax', 'tru']"
+1 - Hank's Other Bag-10.txt,['pia']
+1 - Hank's Other Bag-11.txt,['pia']
+1 - Hank's Other Bag-13.txt,"['pia', 'sax']"
+1 - Hank's Other Bag-14.txt,"['pia', 'sax']"
+1 - Hank's Other Bag-15.txt,"['pia', 'sax']"
+1 - Hank's Other Bag-16.txt,"['pia', 'sax']"
+1 - Hank's Other Bag-17.txt,"['pia', 'sax']"
+1 - Hank's Other Bag-19.txt,"['pia', 'tru']"
+1 - Hank's Other Bag-20.txt,"['pia', 'tru']"
+1 - Hank's Other Bag-21.txt,"['pia', 'tru']"
+1 - Hank's Other Bag-22.txt,"['pia', 'tru']"
+1 - Hank's Other Bag-24.txt,"['pia', 'sax']"
+1 - Hank's Other Bag-26.txt,"['pia', 'sax', 'tru']"
+1 - Hank's Other Bag-27.txt,"['pia', 'sax', 'tru']"
+1 - Hank's Other Bag-3.txt,"['pia', 'sax', 'tru']"
+1 - Hank's Other Bag-4.txt,"['pia', 'sax', 'tru']"
+1 - Hank's Other Bag-5.txt,"['pia', 'sax', 'tru']"
+1 - Hank's Other Bag-6.txt,"['pia', 'sax', 'tru']"
+1 - Hank's Other Bag-7.txt,['pia']
+1 - Hank's Other Bag-8.txt,['pia']
+1 - Hank's Other Bag-9.txt,['pia']
+1.1_Stranger On The Shore-1.txt,['cla']
+1.1_Stranger On The Shore-11.txt,['cla']
+1.1_Stranger On The Shore-12.txt,['cla']
+1.1_Stranger On The Shore-2.txt,['cla']
+1.1_Stranger On The Shore-3.txt,['cla']
+1.1_Stranger On The Shore-4.txt,['cla']
+1.1_Stranger On The Shore-8.txt,['cla']
+1.1_Stranger On The Shore-9.txt,['cla']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-1.txt,['gac']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-2.txt,['gac']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-3.txt,['gac']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-4.txt,['gac']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-5.txt,['gac']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-6.txt,['gac']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-7.txt,['gac']
+[1] - 03 - Alexandre Lagoya - Canarios (Sanz)-8.txt,['gac']

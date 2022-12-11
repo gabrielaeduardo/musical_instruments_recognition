@@ -1,0 +1,767 @@
+filename,labels
+02 bwv 1068 air on g string-1.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-10.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-11.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-12.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-13.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-14.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-15.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-2.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-3.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-4.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-5.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-6.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-7.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-8.txt,"['cel', 'vio']"
+02 bwv 1068 air on g string-9.txt,"['cel', 'vio']"
+02 entangled-1.txt,"['gac', 'gel']"
+02 entangled-10.txt,"['gac', 'gel']"
+02 entangled-11.txt,"['gac', 'gel', 'voi']"
+02 entangled-13.txt,"['gac', 'gel']"
+02 entangled-14.txt,"['gac', 'voi']"
+02 entangled-15.txt,"['gac', 'voi']"
+02 entangled-17.txt,"['gac', 'gel']"
+02 entangled-18.txt,"['gac', 'gel']"
+02 entangled-19.txt,"['gac', 'gel']"
+02 entangled-2.txt,"['gac', 'gel', 'voi']"
+02 entangled-20.txt,"['gac', 'gel']"
+02 entangled-21.txt,"['gac', 'gel']"
+02 entangled-23.txt,"['gac', 'gel']"
+02 entangled-3.txt,"['gac', 'gel', 'voi']"
+02 entangled-4.txt,"['gac', 'gel', 'voi']"
+02 entangled-6.txt,"['gac', 'gel']"
+02 entangled-7.txt,"['gac', 'voi']"
+02 entangled-8.txt,"['gac', 'voi']"
+02 Stardust-1.txt,['tru']
+02 Stardust-10.txt,"['pia', 'tru']"
+02 Stardust-11.txt,"['pia', 'tru']"
+02 Stardust-2.txt,['tru']
+02 Stardust-3.txt,['tru']
+02 Stardust-4.txt,['tru']
+02 Stardust-5.txt,['tru']
+02 Stardust-6.txt,['tru']
+02 Stardust-8.txt,"['pia', 'tru']"
+02 Walkin-2.txt,['sax']
+02 Walkin-8.txt,['pia']
+02-the_mars_volta-the_widow-jrp-1.txt,"['gac', 'gel', 'voi']"
+02-the_mars_volta-the_widow-jrp-11.txt,"['gel', 'voi']"
+02-the_mars_volta-the_widow-jrp-12.txt,"['gel', 'org', 'voi']"
+02-the_mars_volta-the_widow-jrp-13.txt,"['gel', 'org', 'voi']"
+02-the_mars_volta-the_widow-jrp-14.txt,"['gel', 'org', 'voi']"
+02-the_mars_volta-the_widow-jrp-15.txt,"['gel', 'org', 'voi']"
+02-the_mars_volta-the_widow-jrp-16.txt,"['org', 'voi']"
+02-the_mars_volta-the_widow-jrp-17.txt,['org']
+02-the_mars_volta-the_widow-jrp-18.txt,['org']
+02-the_mars_volta-the_widow-jrp-19.txt,['org']
+02-the_mars_volta-the_widow-jrp-20.txt,['org']
+02-the_mars_volta-the_widow-jrp-21.txt,['org']
+02-the_mars_volta-the_widow-jrp-22.txt,['org']
+02-the_mars_volta-the_widow-jrp-3.txt,"['gel', 'voi']"
+02-the_mars_volta-the_widow-jrp-4.txt,"['gel', 'voi']"
+02-the_mars_volta-the_widow-jrp-5.txt,"['gac', 'voi']"
+02-the_mars_volta-the_widow-jrp-7.txt,"['gel', 'voi']"
+02-the_mars_volta-the_widow-jrp-8.txt,"['gel', 'voi']"
+02-the_mars_volta-the_widow-jrp-9.txt,"['gel', 'tru', 'voi']"
+02-the_theory_of_everything_part_2-1.txt,['voi']
+02-the_theory_of_everything_part_2-10.txt,['voi']
+02-the_theory_of_everything_part_2-11.txt,"['pia', 'voi']"
+02-the_theory_of_everything_part_2-13.txt,['pia']
+02-the_theory_of_everything_part_2-2.txt,['pia']
+02-the_theory_of_everything_part_2-3.txt,"['pia', 'voi']"
+02-the_theory_of_everything_part_2-5.txt,"['pia', 'voi']"
+02-the_theory_of_everything_part_2-6.txt,"['pia', 'voi']"
+02-the_theory_of_everything_part_2-7.txt,"['pia', 'voi']"
+02-the_theory_of_everything_part_2-8.txt,"['pia', 'voi']"
+02. School Boy-1.txt,['pia']
+02. School Boy-10.txt,"['pia', 'tru']"
+02. School Boy-12.txt,['pia']
+02. School Boy-14.txt,"['pia', 'sax']"
+02. School Boy-15.txt,"['pia', 'sax']"
+02. School Boy-17.txt,['pia']
+02. School Boy-18.txt,['pia']
+02. School Boy-19.txt,['pia']
+02. School Boy-2.txt,"['pia', 'tru']"
+02. School Boy-21.txt,"['pia', 'sax', 'tru']"
+02. School Boy-22.txt,"['pia', 'sax', 'tru']"
+02. School Boy-23.txt,"['pia', 'sax', 'tru']"
+02. School Boy-24.txt,"['pia', 'sax', 'tru']"
+02. School Boy-3.txt,"['pia', 'sax', 'tru']"
+02. School Boy-4.txt,"['pia', 'sax', 'tru']"
+02. School Boy-6.txt,"['pia', 'tru']"
+02. School Boy-7.txt,"['pia', 'tru']"
+02. School Boy-8.txt,"['pia', 'tru']"
+02. School Boy-9.txt,"['pia', 'tru']"
+02. Yesterdays-1.txt,['pia']
+02. Yesterdays-10.txt,"['cla', 'pia']"
+02. Yesterdays-12.txt,['pia']
+02. Yesterdays-14.txt,['pia']
+02. Yesterdays-15.txt,['pia']
+02. Yesterdays-2.txt,['pia']
+02. Yesterdays-3.txt,['pia']
+02. Yesterdays-4.txt,['pia']
+02. Yesterdays-6.txt,['cla']
+02. Yesterdays-7.txt,['cla']
+02. Yesterdays-9.txt,"['cla', 'pia']"
+"03 -  robert fripp, brian eno - evening star-1.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-10.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-11.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-12.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-14.txt","['gac', 'gel', 'pia']"
+"03 -  robert fripp, brian eno - evening star-15.txt","['gac', 'gel', 'pia']"
+"03 -  robert fripp, brian eno - evening star-16.txt","['gac', 'gel', 'pia']"
+"03 -  robert fripp, brian eno - evening star-18.txt","['gac', 'gel', 'pia']"
+"03 -  robert fripp, brian eno - evening star-20.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-21.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-22.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-23.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-24.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-25.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-3.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-4.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-5.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-6.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-8.txt","['gac', 'gel']"
+"03 -  robert fripp, brian eno - evening star-9.txt","['gac', 'gel']"
+03 - kraftwerk - nummern-1.txt,['voi']
+03 - kraftwerk - nummern-11.txt,['voi']
+03 - kraftwerk - nummern-2.txt,['voi']
+03 - kraftwerk - nummern-6.txt,['voi']
+03 - kraftwerk - nummern-7.txt,['voi']
+03 - Symptom of the Universe-1.txt,['gel']
+03 - Symptom of the Universe-11.txt,"['gel', 'voi']"
+03 - Symptom of the Universe-13.txt,['gel']
+03 - Symptom of the Universe-15.txt,['gel']
+03 - Symptom of the Universe-17.txt,['gel']
+03 - Symptom of the Universe-18.txt,['gac']
+03 - Symptom of the Universe-19.txt,['gac']
+03 - Symptom of the Universe-2.txt,['gel']
+03 - Symptom of the Universe-20.txt,"['gac', 'voi']"
+03 - Symptom of the Universe-21.txt,"['gac', 'voi']"
+03 - Symptom of the Universe-23.txt,['gac']
+03 - Symptom of the Universe-24.txt,['gac']
+03 - Symptom of the Universe-25.txt,['gac']
+03 - Symptom of the Universe-4.txt,"['gel', 'voi']"
+03 - Symptom of the Universe-5.txt,"['gel', 'voi']"
+03 - Symptom of the Universe-6.txt,"['gel', 'voi']"
+03 - Symptom of the Universe-8.txt,['gel']
+03 - Symptom of the Universe-9.txt,['gel']
+03 LEE MORGAN - THE SIDEWINDER-1.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-10.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-11.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-13.txt,"['pia', 'sax']"
+03 LEE MORGAN - THE SIDEWINDER-14.txt,"['pia', 'sax']"
+03 LEE MORGAN - THE SIDEWINDER-15.txt,"['pia', 'sax']"
+03 LEE MORGAN - THE SIDEWINDER-16.txt,"['pia', 'sax']"
+03 LEE MORGAN - THE SIDEWINDER-17.txt,"['pia', 'sax']"
+03 LEE MORGAN - THE SIDEWINDER-3.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-4.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-5.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-7.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-8.txt,['pia']
+03 LEE MORGAN - THE SIDEWINDER-9.txt,['pia']
+03-I'll Be OK-1.txt,"['gel', 'voi']"
+03-I'll Be OK-10.txt,['gel']
+03-I'll Be OK-11.txt,"['gel', 'voi']"
+03-I'll Be OK-12.txt,"['gel', 'pia', 'voi']"
+03-I'll Be OK-14.txt,"['gel', 'pia', 'voi']"
+03-I'll Be OK-16.txt,"['gel', 'pia']"
+03-I'll Be OK-2.txt,"['gel', 'voi']"
+03-I'll Be OK-4.txt,"['gel', 'pia']"
+03-I'll Be OK-5.txt,"['gel', 'pia', 'voi']"
+03-I'll Be OK-6.txt,"['gel', 'pia', 'voi']"
+03-I'll Be OK-7.txt,"['gel', 'pia', 'voi']"
+03-I'll Be OK-9.txt,"['gel', 'pia']"
+03-the_beatles-lucy_in_the_sky_with_diamonds-10.txt,['voi']
+03-the_beatles-lucy_in_the_sky_with_diamonds-12.txt,"['gel', 'voi']"
+03-the_beatles-lucy_in_the_sky_with_diamonds-13.txt,"['gel', 'voi']"
+03-the_beatles-lucy_in_the_sky_with_diamonds-2.txt,['voi']
+03-the_beatles-lucy_in_the_sky_with_diamonds-3.txt,['voi']
+03-the_beatles-lucy_in_the_sky_with_diamonds-4.txt,"['gel', 'voi']"
+03-the_beatles-lucy_in_the_sky_with_diamonds-6.txt,['voi']
+03-the_beatles-lucy_in_the_sky_with_diamonds-8.txt,"['gel', 'voi']"
+03_fly like an eagle - steve miller-1.txt,['gel']
+03_fly like an eagle - steve miller-10.txt,"['gel', 'org']"
+03_fly like an eagle - steve miller-11.txt,"['gel', 'org', 'voi']"
+03_fly like an eagle - steve miller-2.txt,"['gel', 'org', 'voi']"
+03_fly like an eagle - steve miller-3.txt,"['gel', 'org', 'voi']"
+03_fly like an eagle - steve miller-4.txt,"['gel', 'org', 'voi']"
+03_fly like an eagle - steve miller-5.txt,"['gel', 'org', 'voi']"
+03_fly like an eagle - steve miller-6.txt,"['gel', 'org', 'voi']"
+03_fly like an eagle - steve miller-7.txt,"['gel', 'org', 'voi']"
+03_fly like an eagle - steve miller-8.txt,"['gel', 'org', 'voi']"
+04 - kokoku-11.txt,"['org', 'voi']"
+04 - kokoku-13.txt,"['org', 'voi']"
+04 - kokoku-15.txt,"['org', 'voi']"
+04 - kokoku-17.txt,"['org', 'voi']"
+04 - kokoku-18.txt,"['org', 'voi']"
+04 - kokoku-19.txt,"['org', 'voi']"
+04 - kokoku-20.txt,"['org', 'voi']"
+04 - kokoku-22.txt,"['org', 'voi']"
+04 - kokoku-23.txt,"['org', 'voi']"
+04 - kokoku-25.txt,"['org', 'voi']"
+04 - kokoku-3.txt,"['org', 'voi']"
+04 - kokoku-4.txt,"['org', 'voi']"
+04 - kokoku-5.txt,"['org', 'voi']"
+04 - kokoku-6.txt,"['org', 'voi']"
+04 - kokoku-7.txt,"['org', 'voi']"
+04 - kokoku-9.txt,['org']
+04 I Can't Say-1.txt,"['gac', 'pia']"
+04 I Can't Say-2.txt,"['gac', 'pia']"
+04 I Can't Say-3.txt,"['gac', 'pia']"
+04 I Can't Say-5.txt,"['gac', 'pia']"
+04 I Can't Say-7.txt,"['gac', 'pia', 'tru']"
+04 I Can't Say-9.txt,"['gac', 'pia']"
+04 Red Bats With Teeth-11.txt,['sax']
+04 Red Bats With Teeth-2.txt,['pia']
+04 Red Bats With Teeth-3.txt,"['pia', 'sax']"
+04 Red Bats With Teeth-4.txt,"['pia', 'sax']"
+04 Red Bats With Teeth-5.txt,"['pia', 'sax']"
+04 Red Bats With Teeth-6.txt,"['pia', 'sax']"
+04 Red Bats With Teeth-7.txt,"['pia', 'sax']"
+04 Red Bats With Teeth-8.txt,"['pia', 'sax']"
+04 Red Bats With Teeth-9.txt,"['pia', 'sax']"
+04 The Czar-1.txt,['org']
+04 The Czar-10.txt,"['gel', 'voi']"
+04 The Czar-11.txt,"['gel', 'voi']"
+04 The Czar-12.txt,"['gel', 'voi']"
+04 The Czar-14.txt,['gel']
+04 The Czar-16.txt,"['gel', 'voi']"
+04 The Czar-18.txt,"['gel', 'voi']"
+04 The Czar-19.txt,['gel']
+04 The Czar-21.txt,"['gel', 'voi']"
+04 The Czar-23.txt,"['gel', 'voi']"
+04 The Czar-24.txt,['gel']
+04 The Czar-25.txt,['gel']
+04 The Czar-26.txt,"['gel', 'voi']"
+04 The Czar-27.txt,['gel']
+04 The Czar-28.txt,['gel']
+04 The Czar-29.txt,"['gel', 'voi']"
+04 The Czar-3.txt,"['gel', 'org']"
+04 The Czar-31.txt,['gel']
+04 The Czar-32.txt,['gel']
+04 The Czar-34.txt,"['gel', 'voi']"
+04 The Czar-36.txt,['gel']
+04 The Czar-37.txt,"['gel', 'voi']"
+04 The Czar-39.txt,['gel']
+04 The Czar-4.txt,['gel']
+04 The Czar-40.txt,['gel']
+04 The Czar-5.txt,['gel']
+04 The Czar-7.txt,"['gel', 'voi']"
+04 The Czar-70.txt,['pia']
+04 The Czar-9.txt,['gel']
+04 Zeca Baleiro - Com Jards Macale-1.txt,"['flu', 'gac']"
+04 Zeca Baleiro - Com Jards Macale-2.txt,"['flu', 'gac', 'voi']"
+04 Zeca Baleiro - Com Jards Macale-4.txt,"['gac', 'voi']"
+04 Zeca Baleiro - Com Jards Macale-5.txt,"['flu', 'gac', 'voi']"
+04 Zeca Baleiro - Com Jards Macale-6.txt,"['flu', 'gac', 'voi']"
+04 Zeca Baleiro - Com Jards Macale-8.txt,"['gac', 'voi']"
+04 Zeca Baleiro - Com Jards Macale-9.txt,"['flu', 'gac', 'voi']"
+04. MIKE OLDFIELD - Argiers-1.txt,['gac']
+04. MIKE OLDFIELD - Argiers-10.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-11.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-12.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-13.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-2.txt,['gac']
+04. MIKE OLDFIELD - Argiers-3.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-4.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-5.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-6.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-7.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-8.txt,"['flu', 'gac']"
+04. MIKE OLDFIELD - Argiers-9.txt,"['flu', 'gac']"
+04.Mira - ANDREW HILL-1.txt,['pia']
+04.Mira - ANDREW HILL-10.txt,"['pia', 'tru']"
+04.Mira - ANDREW HILL-11.txt,"['pia', 'tru']"
+04.Mira - ANDREW HILL-12.txt,"['pia', 'tru']"
+04.Mira - ANDREW HILL-13.txt,"['pia', 'tru']"
+04.Mira - ANDREW HILL-14.txt,"['pia', 'tru']"
+04.Mira - ANDREW HILL-16.txt,"['pia', 'sax']"
+04.Mira - ANDREW HILL-17.txt,"['pia', 'sax']"
+04.Mira - ANDREW HILL-18.txt,"['pia', 'sax']"
+04.Mira - ANDREW HILL-2.txt,"['pia', 'sax', 'tru']"
+04.Mira - ANDREW HILL-20.txt,['pia']
+04.Mira - ANDREW HILL-21.txt,"['pia', 'sax', 'tru']"
+04.Mira - ANDREW HILL-4.txt,['pia']
+04.Mira - ANDREW HILL-5.txt,['pia']
+04.Mira - ANDREW HILL-6.txt,['pia']
+04.Mira - ANDREW HILL-7.txt,['pia']
+04.Mira - ANDREW HILL-9.txt,"['pia', 'tru']"
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-1.txt,['pia']
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-10.txt,"['flu', 'pia']"
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-11.txt,['pia']
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-2.txt,"['flu', 'pia']"
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-3.txt,"['flu', 'pia']"
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-5.txt,"['flu', 'org', 'pia']"
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-7.txt,"['flu', 'gel', 'pia']"
+05 - Bobbi Humphrey - You Are The Sunshine of My Life-8.txt,"['flu', 'gel', 'pia']"
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-1.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-10.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-11.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-12.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-13.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-14.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-15.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-16.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-17.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-18.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-19.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-2.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-20.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-21.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-22.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-23.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-24.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-25.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-26.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-27.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-28.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-3.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-4.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-5.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-6.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-7.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-8.txt",['vio']
+"05 - Gidon Kremer - Violin Concerto No. 5 In A Major, K. 219- Adagio - Gidon Kremer-9.txt",['vio']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-1.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-10.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-11.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-12.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-13.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-14.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-15.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-16.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-17.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-18.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-19.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-2.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-20.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-21.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-22.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-23.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-24.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-25.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-26.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-27.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-28.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-29.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-3.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-30.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-31.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-32.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-33.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-34.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-35.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-36.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-37.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-38.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-39.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-4.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-40.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-5.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-6.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-7.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-8.txt",['pia']
+"05 - Sonata in A minor, Op. post. 143 D.784 - I. Allegro giusto-9.txt",['pia']
+05 achron - hebrew melody-1.txt,['pia']
+05 achron - hebrew melody-10.txt,['pia']
+05 achron - hebrew melody-11.txt,['pia']
+05 achron - hebrew melody-12.txt,['pia']
+05 achron - hebrew melody-14.txt,['pia']
+05 achron - hebrew melody-15.txt,['pia']
+05 achron - hebrew melody-16.txt,['pia']
+05 achron - hebrew melody-17.txt,['pia']
+05 achron - hebrew melody-2.txt,['pia']
+05 achron - hebrew melody-21.txt,['pia']
+05 achron - hebrew melody-3.txt,['pia']
+05 achron - hebrew melody-4.txt,['pia']
+05 achron - hebrew melody-5.txt,['pia']
+05 achron - hebrew melody-6.txt,['pia']
+05 achron - hebrew melody-7.txt,['pia']
+05 achron - hebrew melody-8.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-10.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-11.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-12.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-14.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-15.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-17.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-18.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-19.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-20.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-23.txt,['flu']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-5.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-6.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-7.txt,['pia']
+05 Mendelssohn - Piano Concerto No. 2 - II. Adagio (molto sostenuto)-8.txt,['pia']
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-10.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-11.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-12.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-13.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-14.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-19.txt,"['gel', 'org']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-2.txt,['gel']
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-3.txt,"['gel', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-5.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-6.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-7.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-8.txt,"['gel', 'org', 'voi']"
+05-antonio_orozco-hoy_todo_va_al_reves_(con_toteking)-nyd-9.txt,"['gel', 'org', 'voi']"
+05-Come Away With Me-1.txt,['gel']
+05-Come Away With Me-10.txt,"['gel', 'pia', 'voi']"
+05-Come Away With Me-12.txt,"['gel', 'pia']"
+05-Come Away With Me-2.txt,"['gel', 'pia']"
+05-Come Away With Me-3.txt,"['gel', 'voi']"
+05-Come Away With Me-4.txt,"['gel', 'pia', 'voi']"
+05-Come Away With Me-5.txt,"['gel', 'pia', 'voi']"
+05-Come Away With Me-7.txt,"['gel', 'pia']"
+05-Come Away With Me-8.txt,"['gel', 'pia']"
+05. Lost Life-1.txt,['sax']
+05. Lost Life-10.txt,"['pia', 'sax']"
+05. Lost Life-11.txt,"['pia', 'sax']"
+05. Lost Life-12.txt,"['pia', 'sax']"
+05. Lost Life-13.txt,"['pia', 'sax']"
+05. Lost Life-14.txt,"['pia', 'sax']"
+05. Lost Life-15.txt,"['pia', 'sax']"
+05. Lost Life-16.txt,"['pia', 'sax']"
+05. Lost Life-17.txt,"['pia', 'sax']"
+05. Lost Life-3.txt,"['pia', 'sax']"
+05. Lost Life-4.txt,"['pia', 'sax']"
+05. Lost Life-5.txt,"['pia', 'sax']"
+05. Lost Life-6.txt,"['pia', 'sax']"
+05. Lost Life-7.txt,"['pia', 'sax']"
+05. Lost Life-8.txt,"['pia', 'sax']"
+05. Lost Life-9.txt,"['pia', 'sax']"
+06 - Lali Puna - Faking the Books-1.txt,['voi']
+06 - Lali Puna - Faking the Books-10.txt,"['gac', 'voi']"
+06 - Lali Puna - Faking the Books-11.txt,"['gac', 'voi']"
+06 - Lali Puna - Faking the Books-12.txt,"['gac', 'voi']"
+06 - Lali Puna - Faking the Books-14.txt,['gac']
+06 - Lali Puna - Faking the Books-15.txt,"['gac', 'gel']"
+06 - Lali Puna - Faking the Books-16.txt,"['gac', 'gel']"
+06 - Lali Puna - Faking the Books-17.txt,"['gac', 'gel']"
+06 - Lali Puna - Faking the Books-19.txt,['gac']
+06 - Lali Puna - Faking the Books-2.txt,['voi']
+06 - Lali Puna - Faking the Books-20.txt,['gac']
+06 - Lali Puna - Faking the Books-21.txt,['gac']
+06 - Lali Puna - Faking the Books-22.txt,['gac']
+06 - Lali Puna - Faking the Books-23.txt,['gac']
+06 - Lali Puna - Faking the Books-24.txt,['gac']
+06 - Lali Puna - Faking the Books-25.txt,['gac']
+06 - Lali Puna - Faking the Books-3.txt,['voi']
+06 - Lali Puna - Faking the Books-4.txt,['voi']
+06 - Lali Puna - Faking the Books-6.txt,"['gac', 'voi']"
+06 - Lali Puna - Faking the Books-7.txt,"['gac', 'voi']"
+06 - Lali Puna - Faking the Books-8.txt,"['gac', 'voi']"
+06 - Lali Puna - Faking the Books-9.txt,"['gac', 'voi']"
+06 - New Noise-1.txt,['gel']
+06 - New Noise-10.txt,"['gel', 'voi']"
+06 - New Noise-11.txt,"['gel', 'voi']"
+06 - New Noise-12.txt,"['gel', 'voi']"
+06 - New Noise-14.txt,['gel']
+06 - New Noise-15.txt,"['gel', 'voi']"
+06 - New Noise-16.txt,"['gel', 'voi']"
+06 - New Noise-17.txt,"['gel', 'voi']"
+06 - New Noise-18.txt,['gel']
+06 - New Noise-19.txt,['gel']
+06 - New Noise-2.txt,['gel']
+06 - New Noise-20.txt,['gel']
+06 - New Noise-21.txt,['gel']
+06 - New Noise-22.txt,"['gel', 'voi']"
+06 - New Noise-24.txt,"['gel', 'voi']"
+06 - New Noise-25.txt,['gel']
+06 - New Noise-29.txt,['gel']
+06 - New Noise-31.txt,['gel']
+06 - New Noise-34.txt,['gel']
+06 - New Noise-4.txt,['gel']
+06 - New Noise-5.txt,['gel']
+06 - New Noise-7.txt,"['gel', 'voi']"
+06 - New Noise-8.txt,"['gel', 'voi']"
+06 - New Noise-9.txt,"['gel', 'voi']"
+06 - the human league - reproduction - empire state human-11.txt,['voi']
+06 - the human league - reproduction - empire state human-12.txt,['voi']
+06 - the human league - reproduction - empire state human-3.txt,['voi']
+06 - the human league - reproduction - empire state human-4.txt,['voi']
+06 - the human league - reproduction - empire state human-5.txt,['voi']
+06 - the human league - reproduction - empire state human-6.txt,['voi']
+06 - the human league - reproduction - empire state human-7.txt,['voi']
+06 - the human league - reproduction - empire state human-8.txt,['voi']
+06 - The partisan-1.txt,['gac']
+06 - The partisan-10.txt,"['gac', 'voi']"
+06 - The partisan-11.txt,"['gac', 'voi']"
+06 - The partisan-12.txt,['gac']
+06 - The partisan-13.txt,"['gac', 'voi']"
+06 - The partisan-14.txt,"['gac', 'voi']"
+06 - The partisan-15.txt,"['gac', 'voi']"
+06 - The partisan-2.txt,"['gac', 'voi']"
+06 - The partisan-3.txt,['gac']
+06 - The partisan-4.txt,"['gac', 'voi']"
+06 - The partisan-5.txt,['gac']
+06 - The partisan-6.txt,"['gac', 'voi']"
+06 - The partisan-7.txt,['gac']
+06 - The partisan-8.txt,"['gac', 'voi']"
+06 - The partisan-9.txt,['gac']
+06 Night Train-1.txt,"['gel', 'org']"
+06 Night Train-10.txt,"['gel', 'org', 'voi']"
+06 Night Train-11.txt,"['gel', 'org', 'voi']"
+06 Night Train-12.txt,"['gel', 'org', 'voi']"
+06 Night Train-13.txt,"['gel', 'org', 'voi']"
+06 Night Train-14.txt,"['gel', 'org', 'voi']"
+06 Night Train-15.txt,"['gel', 'org', 'voi']"
+06 Night Train-17.txt,"['gel', 'org']"
+06 Night Train-18.txt,"['gel', 'org']"
+06 Night Train-19.txt,"['gel', 'org']"
+06 Night Train-2.txt,"['gel', 'org']"
+06 Night Train-21.txt,"['gel', 'org', 'voi']"
+06 Night Train-22.txt,"['gel', 'org', 'voi']"
+06 Night Train-23.txt,"['gel', 'org', 'voi']"
+06 Night Train-25.txt,"['gel', 'org']"
+06 Night Train-3.txt,"['gel', 'org']"
+06 Night Train-4.txt,"['gel', 'org']"
+06 Night Train-5.txt,"['gel', 'org']"
+06 Night Train-7.txt,"['gel', 'org', 'voi']"
+06 Night Train-8.txt,"['gel', 'org', 'voi']"
+06 Night Train-9.txt,"['gel', 'org', 'voi']"
+06-Confirmation-1.txt,"['pia', 'sax']"
+06-Confirmation-10.txt,"['pia', 'sax']"
+06-Confirmation-11.txt,"['pia', 'sax']"
+06-Confirmation-13.txt,['pia']
+06-Confirmation-14.txt,['pia']
+06-Confirmation-15.txt,['pia']
+06-Confirmation-17.txt,"['pia', 'sax']"
+06-Confirmation-18.txt,['pia']
+06-Confirmation-19.txt,"['pia', 'sax']"
+06-Confirmation-20.txt,['pia']
+06-Confirmation-21.txt,['pia']
+06-Confirmation-22.txt,"['pia', 'sax']"
+06-Confirmation-23.txt,['sax']
+06-Confirmation-3.txt,['pia']
+06-Confirmation-4.txt,"['pia', 'sax']"
+06-Confirmation-5.txt,"['pia', 'sax']"
+06-Confirmation-6.txt,"['pia', 'sax']"
+06-Confirmation-7.txt,"['pia', 'sax']"
+06-Confirmation-8.txt,"['pia', 'sax']"
+06-Confirmation-9.txt,"['pia', 'sax']"
+06-sigur ros - hljomalind-10.txt,"['gel', 'voi']"
+06-sigur ros - hljomalind-12.txt,['gel']
+06-sigur ros - hljomalind-15.txt,"['gel', 'voi']"
+06-sigur ros - hljomalind-4.txt,['voi']
+06-sigur ros - hljomalind-5.txt,['voi']
+06-sigur ros - hljomalind-7.txt,"['gel', 'voi']"
+06-sigur ros - hljomalind-8.txt,['voi']
+07 - Store Bought Bones - 07-1.txt,['org']
+07 - Store Bought Bones - 07-10.txt,"['gel', 'org']"
+07 - Store Bought Bones - 07-2.txt,"['gel', 'org']"
+07 - Store Bought Bones - 07-3.txt,"['gel', 'org', 'voi']"
+07 - Store Bought Bones - 07-5.txt,"['gel', 'org', 'voi']"
+07 - Store Bought Bones - 07-7.txt,"['org', 'voi']"
+07 - Store Bought Bones - 07-8.txt,"['gel', 'org']"
+07 palestrina - stabat mater-1.txt,['voi']
+07 palestrina - stabat mater-10.txt,['voi']
+07 palestrina - stabat mater-11.txt,['voi']
+07 palestrina - stabat mater-12.txt,['voi']
+07 palestrina - stabat mater-13.txt,['voi']
+07 palestrina - stabat mater-14.txt,['voi']
+07 palestrina - stabat mater-15.txt,['voi']
+07 palestrina - stabat mater-16.txt,['voi']
+07 palestrina - stabat mater-17.txt,['voi']
+07 palestrina - stabat mater-18.txt,['voi']
+07 palestrina - stabat mater-19.txt,['voi']
+07 palestrina - stabat mater-2.txt,['voi']
+07 palestrina - stabat mater-20.txt,['voi']
+07 palestrina - stabat mater-21.txt,['voi']
+07 palestrina - stabat mater-22.txt,['voi']
+07 palestrina - stabat mater-23.txt,['voi']
+07 palestrina - stabat mater-24.txt,['voi']
+07 palestrina - stabat mater-25.txt,['voi']
+07 palestrina - stabat mater-26.txt,['voi']
+07 palestrina - stabat mater-27.txt,['voi']
+07 palestrina - stabat mater-3.txt,['voi']
+07 palestrina - stabat mater-4.txt,['voi']
+07 palestrina - stabat mater-5.txt,['voi']
+07 palestrina - stabat mater-6.txt,['voi']
+07 palestrina - stabat mater-7.txt,['voi']
+07 palestrina - stabat mater-8.txt,['voi']
+07 palestrina - stabat mater-9.txt,['voi']
+07-My Romance-1.txt,['gac']
+07-My Romance-10.txt,['gac']
+07-My Romance-11.txt,['gac']
+07-My Romance-2.txt,['gac']
+07-My Romance-3.txt,['gac']
+07-My Romance-4.txt,['gac']
+07-My Romance-5.txt,['gac']
+07-My Romance-6.txt,['gac']
+07-My Romance-7.txt,['gac']
+07-My Romance-8.txt,['gac']
+07-My Romance-9.txt,['gac']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-15.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-17.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-2.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-3.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-4.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-5.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-6.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-7.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-8.txt,['cla']
+07. Buddy DeFranco & Tommy Gumina - Scrapple from the Apple-9.txt,['cla']
+08 - Mum - Weeping Rock Rock-10.txt,"['tru', 'voi']"
+08 - Mum - Weeping Rock Rock-11.txt,"['gac', 'voi']"
+08 - Mum - Weeping Rock Rock-13.txt,['flu']
+08 - Mum - Weeping Rock Rock-14.txt,"['flu', 'voi']"
+08 - Mum - Weeping Rock Rock-15.txt,"['flu', 'pia']"
+08 - Mum - Weeping Rock Rock-17.txt,"['gel', 'pia']"
+08 - Mum - Weeping Rock Rock-18.txt,"['gel', 'voi']"
+08 - Mum - Weeping Rock Rock-20.txt,"['flu', 'gel', 'pia']"
+08 - Mum - Weeping Rock Rock-21.txt,"['flu', 'gel', 'voi']"
+08 - Mum - Weeping Rock Rock-22.txt,"['gel', 'vio', 'voi']"
+08 - Mum - Weeping Rock Rock-23.txt,"['pia', 'vio', 'voi']"
+08 - Mum - Weeping Rock Rock-25.txt,['voi']
+08 - Mum - Weeping Rock Rock-7.txt,['gac']
+08 - Rufus Wainwright - Poses-1.txt,['pia']
+08 - Rufus Wainwright - Poses-10.txt,"['cel', 'pia']"
+08 - Rufus Wainwright - Poses-11.txt,"['cel', 'pia', 'voi']"
+08 - Rufus Wainwright - Poses-13.txt,"['cel', 'pia', 'vio', 'voi']"
+08 - Rufus Wainwright - Poses-14.txt,"['cel', 'pia', 'vio', 'voi']"
+08 - Rufus Wainwright - Poses-16.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-17.txt,"['cel', 'pia', 'voi']"
+08 - Rufus Wainwright - Poses-18.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-19.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-20.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-21.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-23.txt,['pia']
+08 - Rufus Wainwright - Poses-3.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-4.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-6.txt,"['pia', 'voi']"
+08 - Rufus Wainwright - Poses-8.txt,"['pia', 'voi']"
+08 My favorite game-1.txt,['gel']
+08 My favorite game-10.txt,"['gel', 'voi']"
+08 My favorite game-11.txt,"['gel', 'voi']"
+08 My favorite game-13.txt,"['org', 'voi']"
+08 My favorite game-14.txt,['voi']
+08 My favorite game-15.txt,['voi']
+08 My favorite game-17.txt,['voi']
+08 My favorite game-18.txt,"['org', 'voi']"
+08 My favorite game-2.txt,['gel']
+08 My favorite game-20.txt,['org']
+08 My favorite game-21.txt,"['org', 'voi']"
+08 My favorite game-22.txt,['org']
+08 My favorite game-23.txt,"['org', 'voi']"
+08 My favorite game-24.txt,['voi']
+08 My favorite game-3.txt,"['gel', 'voi']"
+08 My favorite game-31.txt,"['org', 'voi']"
+08 My favorite game-32.txt,"['org', 'voi']"
+08 My favorite game-34.txt,['org']
+08 My favorite game-4.txt,"['gel', 'voi']"
+08 My favorite game-5.txt,"['gel', 'voi']"
+08 My favorite game-6.txt,"['gel', 'voi']"
+08 My favorite game-7.txt,"['gel', 'voi']"
+08 My favorite game-8.txt,"['gel', 'voi']"
+08 My favorite game-9.txt,"['gel', 'voi']"
+"08-Concerto in A major, K 219 -2- Adagio-10.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-11.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-12.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-14.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-15.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-16.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-18.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-19.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-20.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-21.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-22.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-23.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-24.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-25.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-26.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-28.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-29.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-3.txt",['cla']
+"08-Concerto in A major, K 219 -2- Adagio-30.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-32.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-34.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-36.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-37.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-38.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-39.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-41.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-42.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-43.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-44.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-45.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-46.txt",['vio']
+"08-Concerto in A major, K 219 -2- Adagio-48.txt","['cla', 'vio']"
+"08-Concerto in A major, K 219 -2- Adagio-5.txt",['cla']
+"08-Concerto in A major, K 219 -2- Adagio-8.txt",['cla']
+"08-Concerto in A major, K 219 -2- Adagio-9.txt",['vio']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-1.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-2.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-3.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-4.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-5.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-6.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-7.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-8.txt",['pia']
+"10 - Johann Sebastian Bach - English Suite No. 3 in G major, BWV 808 (Andra╠Çs Schiff) (1)-9.txt",['pia']
+11 Dead as History-10.txt,"['gac', 'voi']"
+11 Dead as History-11.txt,"['gac', 'voi']"
+11 Dead as History-12.txt,"['gac', 'voi']"
+11 Dead as History-14.txt,['gac']
+11 Dead as History-16.txt,"['gac', 'pia']"
+11 Dead as History-18.txt,"['gac', 'pia', 'voi']"
+11 Dead as History-20.txt,"['flu', 'gac', 'org', 'pia', 'voi']"
+11 Dead as History-21.txt,"['flu', 'gac', 'org', 'pia']"
+11 Dead as History-22.txt,"['flu', 'gac', 'org']"
+11 Dead as History-23.txt,"['gac', 'gel']"
+11 Dead as History-24.txt,"['gac', 'gel']"
+11 Dead as History-4.txt,"['flu', 'gac', 'pia']"
+11 Dead as History-5.txt,"['flu', 'gac', 'org', 'pia']"
+11 Dead as History-6.txt,"['flu', 'gac', 'org', 'pia']"
+11 Dead as History-8.txt,"['gac', 'voi']"
+11 Dead as History-9.txt,"['gac', 'voi']"
+12 What'll I Do - Bud Shank And Bob-1.txt,"['flu', 'gel', 'sax']"
+12 What'll I Do - Bud Shank And Bob-10.txt,"['flu', 'gel', 'sax']"
+12 What'll I Do - Bud Shank And Bob-12.txt,"['flu', 'gel', 'sax']"
+12 What'll I Do - Bud Shank And Bob-2.txt,"['flu', 'gel', 'sax']"
+12 What'll I Do - Bud Shank And Bob-4.txt,"['flu', 'gel']"
+12 What'll I Do - Bud Shank And Bob-6.txt,"['gel', 'sax']"
+12 What'll I Do - Bud Shank And Bob-7.txt,['gel']
+12 What'll I Do - Bud Shank And Bob-8.txt,"['flu', 'gel']"
+12 What'll I Do - Bud Shank And Bob-9.txt,"['flu', 'gel', 'sax']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-1.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-10.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-11.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-12.txt,['gel']
+13 Chet Atkins & Jerry Reed - Sneakin' Around-13.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-14.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-16.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-17.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-2.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-4.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-5.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-6.txt,"['gac', 'gel']"
+13 Chet Atkins & Jerry Reed - Sneakin' Around-8.txt,['gel']
+13 Chet Atkins & Jerry Reed - Sneakin' Around-9.txt,['gel']
+13 Living in the Past-1.txt,"['flu', 'gel']"
+13 Living in the Past-10.txt,"['flu', 'gel', 'vio', 'voi']"
+13 Living in the Past-11.txt,"['flu', 'gel', 'vio']"
+13 Living in the Past-2.txt,"['flu', 'gel']"
+13 Living in the Past-3.txt,"['gel', 'vio', 'voi']"
+13 Living in the Past-5.txt,"['flu', 'gel']"
+13 Living in the Past-6.txt,"['flu', 'gel', 'vio']"
+13 Living in the Past-7.txt,"['gel', 'vio', 'voi']"
+13 Living in the Past-9.txt,"['flu', 'gel']"
+14 - Tomorrow Never Knows-11.txt,['pia']
+14 - Tomorrow Never Knows-2.txt,['voi']
+14 - Tomorrow Never Knows-3.txt,['voi']
+14 - Tomorrow Never Knows-6.txt,['gel']
+14 - Tomorrow Never Knows-7.txt,['voi']
+14 - Tomorrow Never Knows-8.txt,['voi']
+14 - Tomorrow Never Knows-9.txt,['voi']
+"14-god is an astronaut - all is violent, all is bright-10.txt","['gel', 'org']"
+"14-god is an astronaut - all is violent, all is bright-12.txt","['gel', 'org']"
+"14-god is an astronaut - all is violent, all is bright-14.txt",['org']
+"14-god is an astronaut - all is violent, all is bright-16.txt",['org']
+"14-god is an astronaut - all is violent, all is bright-3.txt",['org']
+"14-god is an astronaut - all is violent, all is bright-4.txt","['gel', 'org']"
+"14-god is an astronaut - all is violent, all is bright-6.txt","['gel', 'org']"
+"14-god is an astronaut - all is violent, all is bright-8.txt","['gel', 'org']"
+14.  Boots Randolph - Yakety Sax-1.txt,"['gac', 'sax']"
+14.  Boots Randolph - Yakety Sax-3.txt,"['gac', 'sax']"
+14.  Boots Randolph - Yakety Sax-5.txt,"['gac', 'sax']"
